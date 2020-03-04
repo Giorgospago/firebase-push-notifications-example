@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "delta-360-pwa": {
+      "hosting": {
+        "push": [
+          "delta-360-pwa"
+        ]
+      }
+    }
+  }
+}
